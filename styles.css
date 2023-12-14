@@ -1,0 +1,39 @@
+h1{ /*chamada do h1*/
+    color: rgb(red, green, blue);
+    font-style: italic; /*deixa a fonte em italico*/
+    text-decoration: underline; /*deixar texto sublinhado*/
+}
+
+p{ /*Chamada do paragrafo*/
+    font-size: 20px;
+    /*color: blue; cor das letras*/
+    /*color: rgb(200, 100,50); */
+    color: #ff00ff;/*tipo de chamada de cor em hexadecimal (mybrandnewlogo / coolors.com)*/
+    font-weight: 700; /*comando para peso da fonte*/
+}
+
+#destaque{  /*Chamada do id*/
+    color: green;
+    font-size: 25px
+}
+
+.pequenino{ /*Chamada da class*/
+    font-size: 10px;
+    
+}
+
+div{
+    background-color: black; /*mudança na cor do fundo*/
+}
+
+.divisao1{
+    background-color: rgba(255, 192, 203, 0.5);
+}
+.divisao2{
+    background-color: brown;
+}
+
+.destaque2{
+    color: yellow;
+    font-size: 40px;
+}
